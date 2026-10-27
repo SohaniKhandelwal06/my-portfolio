@@ -1,21 +1,118 @@
-<<<<<<< HEAD
-# React + Vite
+# Sohani Khandelwal — Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive personal portfolio website built with React and Vite to showcase my projects, technical skills, and journey as an aspiring Full Stack Developer.
 
-Currently, two official plugins are available:
+## 🌐 About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This portfolio introduces me, highlights my projects, and provides ways to connect with me. It is designed with a clean layout, responsive styling, and simple navigation.
 
-## React Compiler
+### Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Responsive design for desktop, tablet, and mobile screens
+- Hero section introducing me as a developer
+- About Me section describing my interests and learning goals
+- Project cards showcasing my work
+- Contact section with an email link and GitHub profile
+- Accessible skip-to-main-content link
+- Keyboard focus indicators for navigation
+- External links that open in a new tab
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# my-portfolio
-My personal portfolio built with React and Vite
->>>>>>> 34178c849a157178230cae38d2980a8bc6c8b711
+- **React** — building UI components
+- **Vite** — development server and build tool
+- **CSS3** — styling and responsive layout
+- **JavaScript** — application logic
+- **HTML5** — page structure
+- **Git & GitHub** — version control and source code hosting
+
+## 📂 Project Structure
+
+text
+portfolio/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
+├── .gitignore
+├── index.html
+├── package.json
+├── package-lock.json
+└── vite.config.js
+
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally.
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) installed
+- npm (included with Node.js)
+- Git installed
+
+### Installation
+
+1. Clone the repository:
+
+   bash
+   git clone https://github.com/SohaniKhandelwal06/my-portfolio.git
+   
+
+2. Navigate to the project folder:
+
+   bash
+   cd my-portfolio
+   
+
+3. Install the dependencies:
+
+   bash
+   npm install
+   
+
+4. Start the development server:
+
+   bash
+   npm run dev
+   
+
+5. Open the local URL displayed in your terminal.
+
+### Build for Production
+
+To create a production build, run:
+
+bash
+npm run build
+
+
+To preview the production build locally, run:
+bash
+npm run preview
+
+
+## 📌 Featured Projects
+
+The portfolio currently showcases these projects:
+
+- **Personal Portfolio** — a website presenting my profile and work
+- **Expense Tracker** — a concept for tracking daily expenses and spending
+- **Stone Paper Scissors** — a simple interactive game
+- **To-Do List** — a task management application
+
+Visit my [GitHub profile](https://github.com/SohaniKhandelwal06) to explore my repositories.
+
+## 📬 Contact
+
+**Sohani Khandelwal**
+
+- GitHub: [SohaniKhandelwal06](https://github.com/SohaniKhandelwal06)
+- Email: [khandelwalsohani06@gmail.com](mailto:khandelwalsohani06@gmail.com)
+
+## 📄 License
+
+This project is currently intended for personal portfolio and learning purposes.

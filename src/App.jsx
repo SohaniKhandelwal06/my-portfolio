@@ -71,7 +71,7 @@ function App(){
             <span>CSS</span>
             <span>vite</span>
           </div>
-          <a href="https://github.com/SohaniKhandelwal06" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/SohaniKhandelwal06/my-portfolio.git" target="_blank" rel="noopener noreferrer">
           View on Github
           </a>
         </article>
@@ -93,7 +93,7 @@ function App(){
     </div>
 
     <a
-      href="https://github.com/SohaniKhandelwal06"
+      href="https://github.com/SohaniKhandelwal06/expense-tracker.git"
       target="_blank"
       rel="noopener noreferrer"
     >
@@ -118,7 +118,7 @@ function App(){
     </div>
 
     <a
-      href="https://github.com/SohaniKhandelwal06"
+      href="https://github.com/SohaniKhandelwal06/Stone-Paper-Scissors.git"
       target="_blank"
       rel="noopener noreferrer"
     >
@@ -143,7 +143,7 @@ function App(){
     </div>
 
     <a
-      href="https://github.com/SohaniKhandelwal06"
+      href="https://github.com/SohaniKhandelwal06/To-do-list.git"
       target="_blank"
       rel="noopener noreferrer"
     >
